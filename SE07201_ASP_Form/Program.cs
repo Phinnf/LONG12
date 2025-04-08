@@ -18,6 +18,8 @@ namespace SE07201_ASP_Form
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frmWaterBill());
             Console.WriteLine("Hello World");
+            Console.WriteLine("fdsfds");
+            Console.WriteLine("fdsfds2");
         }
     }
 }

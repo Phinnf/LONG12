@@ -83,6 +83,7 @@ namespace SE07201_ASP_Form
                 if (customer.Name.Contains(name))
                 {
                     result.Add(customer);
+
                 }
             }
             return result;
