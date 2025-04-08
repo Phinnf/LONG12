@@ -17,6 +17,7 @@ namespace SE07201_ASP_Form
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frmWaterBill());
+            Console.WriteLine("Hello World");
         }
     }
 }
